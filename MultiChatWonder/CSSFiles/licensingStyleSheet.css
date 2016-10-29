@@ -1,0 +1,31 @@
+h1{
+    text-align: center;
+    font-weight:bold;
+}
+a{
+    text-decoration: none;
+    font-weight:bold;
+    color:blue;
+}
+a:hover{
+    color:red;
+}
+#licenselogo{
+    position:static
+    
+}
+#TitleContainer{
+   
+    color:black;
+    
+    background-color:aquamarine;
+}
+
+#intro
+{
+    text-align: center
+}
+p{
+    font-size:14px;
+    font-family:sans-serif
+}
